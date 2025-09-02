@@ -1,0 +1,14 @@
+{
+  "resourceName": "s3879ede0b",
+  "policyUUID": "879ede0b",
+  "bucketName": "bucketlist-storage",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
